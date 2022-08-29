@@ -7,7 +7,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		//JOptionPane.showMessageDialog(null, "宝箱を見つけたらゲームクリア", "ゲーム説明", JOptionPane.PLAIN_MESSAGE);
+		JOptionPane.showMessageDialog(null, "宝箱を見つけたらゲームクリア", "ゲーム説明", JOptionPane.PLAIN_MESSAGE);
 		
 		JFrame window = new JFrame();
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
